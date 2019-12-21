@@ -1,0 +1,2 @@
+# task6_LuckyTickets
+ 
